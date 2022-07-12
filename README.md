@@ -1,15 +1,12 @@
-# Microverse-to-do-list
-[!screenshot]
-> Description
+# Testing Practice
+> Practice testing using jest - Microverse
 
-## Live Demo
-
-Can check the live demo [here](https://shahira-sadat.github.io/)
 
 ## Built With
 - HTML5
 - CSS3
 - JavaScript (ES6)
+- Jest
 - Webpack
 - Linters (Lighthouse, Webhint, Stylelint, Eslint)
 
@@ -27,7 +24,6 @@ clone the repo or download from https://github.com/shahira-sadat/
 ### Install dependencies
 
 npm install
-
 
 ### Build the app
 
