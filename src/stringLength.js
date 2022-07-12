@@ -1,5 +1,5 @@
 exports.stringLength = (string) => {
-  const length = string.length;
+  const { length } = string;
   if (length > 0 && length < 11) {
     return string.length;
   }
